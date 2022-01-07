@@ -22,3 +22,9 @@ The reporting department have been collecting data on every accident that is rep
 
 ## Report
 The entire analysis process is inside the notebook found [here](notebook-final.ipynb).
+
+## Sneak peek
+
+Using Plotly, we created an animation of the number of accidents by hour of day. The frames in the animation represent the month of the year. Notice the HUGE drop in the number of accidents in March-April (when social isolation started due to COVID-19).
+
+![Accidents by month](monthly.gif)
